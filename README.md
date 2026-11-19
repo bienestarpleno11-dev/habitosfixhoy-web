@@ -1,2 +1,2 @@
 # habitosfixhoy-web
-Sitio web de Habitos Fix Hoy (habitosfixhoy.online)
+Sitio de Hábitos Fix Hoy (habitosfixhoy.online), publicado con GitHub Pages.
